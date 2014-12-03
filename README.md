@@ -1,6 +1,8 @@
 temperature-regulated-box
 =========================
 
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/tomgco/temperature-regulated-box?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 An open-source hardware project to design and build a temperature controlled box.
 
 ## License
